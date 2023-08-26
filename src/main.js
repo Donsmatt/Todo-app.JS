@@ -9,7 +9,7 @@ document.querySelector("#app").innerHTML = `
     <img src=${Icon} class="icon" alt="icon" />
   </h2>
   <div class="row">
-    <input type="text" id="input-box" placeholder="Add your text">
+    <input type="text" id="input-box" placeholder="Add your task here...">
     <button id="button" type="button">Add</button>
   </div>
   <ul id="list-container">
