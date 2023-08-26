@@ -1,4 +1,4 @@
-import "/style.css";
+import "./style.css";
 import Icon from "/icon.png";
 import { addTask } from "./addTask";
 
